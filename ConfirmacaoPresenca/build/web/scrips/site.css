@@ -1,0 +1,12 @@
+
+/* 
+    Created on : 10/11/2017, 08:50:58
+    Author     : Jônatas e Wesley
+*/
+.navbar .navbar-nav > li > a:hover {
+    background-color: #ddd;
+}
+
+.jumbotron {
+    background-color: #dff0d8;
+}
